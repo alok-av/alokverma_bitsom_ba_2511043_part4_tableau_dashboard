@@ -1,5 +1,5 @@
 # Chart Selection Justification
-**Student:** Aditya Verma | **ID:** bitsom_ba_2511044  
+**Student:** Alok Verma | **ID:** bitsom_ba_2511043
 **Dashboard:** Executive Sales Performance Dashboard
 
 Each chart is justified below using: Question Answered | Chart Type Rationale | Fields Used | Design Principle | Mistake Avoided.
@@ -105,4 +105,4 @@ Each chart is justified below using: Question Answered | Chart Type Rationale | 
 | **Mistake Avoided** | Did NOT use two separate charts for this — the relationship between volume and return rate would be harder to spot without them sharing an axis. |
 
 ---
-*Part 4 Chart Justification | BITSOM BA Capstone | bitsom_ba_2511044*
+*Part 4 Chart Justification | BITSOM BA Capstone | bitsom_ba_2511043*
