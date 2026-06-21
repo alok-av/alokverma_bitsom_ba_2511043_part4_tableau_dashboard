@@ -1,5 +1,5 @@
 # Business Insights — Executive Dashboard
-**Student:** Aditya Verma | **ID:** bitsom_ba_2511044  
+**Student:** Alok Verma | **ID:** bitsom_ba_2511043  
 **Dataset:** `dashboard_sales_data.xlsx` | **4,200 orders | Jan 2024 – Dec 2025**  
 **Date:** 18 June 2026
 
@@ -161,4 +161,4 @@ Over-reliance on a single channel is a business continuity risk. If the top chan
 Fix campaign attribution tracking immediately to eliminate the Unknown channel bucket. Run incremental channel experiments (20% budget test in underperforming channels). Target a more balanced 30/25/20/15/10% channel mix within 6 months to reduce concentration risk.
 
 ---
-*8 Insights | Part 4 | BITSOM BA Capstone | bitsom_ba_2511044*
+*8 Insights | Part 4 | BITSOM BA Capstone | bitsom_ba_2511043*
