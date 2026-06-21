@@ -1,6 +1,6 @@
 # Dashboard Story — Executive Briefing
 **To:** C-Suite & Senior Leadership  
-**From:** Aditya Verma, Business Analyst | ID: bitsom_ba_2511044  
+**From:** Alok Verma, Business Analyst | ID: bitsom_ba_2511043  
 **Dashboard:** Executive Sales Performance Dashboard  
 **Data Period:** January 2024 – December 2025 | 4,200 Orders
 
@@ -93,4 +93,4 @@ Our business generated **₹21.7Cr** in total sales and **₹3.3Cr** in profit a
 5. **Geographic Expansion Study** — Data-driven site selection for new stores in East
 
 ---
-*Prepared by: Aditya Verma | BITSOM BA Capstone | bitsom_ba_2511044*
+*Prepared by: Alok Verma | BITSOM BA Capstone | bitsom_ba_2511043*
